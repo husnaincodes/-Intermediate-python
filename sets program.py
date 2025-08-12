@@ -1,0 +1,18 @@
+
+my_set = set()
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+no = input("Enter your number : ")
+my_set.add(int(no))
+
+print(my_set)
