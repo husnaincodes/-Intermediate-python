@@ -17,11 +17,14 @@ print(marks.get("HUSNAIN"))
 print(marks["HUSNAIN"])
 
 
-print(marks.get("HUSNAIN2")) #none
+# print(marks.get("HUSNAIN2")) #none
 
 
 # The difference between these two is one give you an error if name is not in the marks (marks["HUSNIAn")
 # and other gives you NONE                                                                                        
-print(marks["HUSNAIN2"]) #error
+# print(marks["HUSNAIN2"]) #error
 
+my_dict = { 55 : "husnain", "shahbaz" : 100}
 
+n =len(my_dict)
+print(n)
