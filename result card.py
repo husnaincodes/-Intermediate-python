@@ -26,11 +26,9 @@ elif(Percentage>=45):
 elif(Percentage>=33):
     print("YOUR ARE PASS ")
     print("Your percentage is :",Percentage)
-
+    
 else:
     print("You are fail next time do your best ")
     print("Your percentage is :",Percentage)
-
-print("Many congratulation who students pass and keep is up and do your best")
 
 
