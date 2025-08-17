@@ -11,7 +11,7 @@ if(Percentage>=85):
 elif(Percentage>=75):
     print("Your Grade is A ")
     print("Your percentage is :",Percentage)
-    print("GOODKEEP IT UP")   
+    print("GOOD KEEP IT UP")   
 
 elif(Percentage>=60):
     print("Your Grade is B ")
