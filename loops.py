@@ -1,8 +1,8 @@
 
-num = 1 
-while(num<100):
-    print(num)
-    num+=1
+number  = 1 
+while(number<=100):
+    print(number)
+    number+=1
 
 
 i = 0
