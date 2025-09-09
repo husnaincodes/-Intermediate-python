@@ -5,9 +5,9 @@ print(my_set)
 
 empty = set()
 
-no = type(empty)
+number = type(empty)
 
-print(no)
+print(number)
 
 
 
