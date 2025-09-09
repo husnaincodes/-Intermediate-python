@@ -10,10 +10,15 @@ marks ={
 print(marks,type(marks))
 
 print(marks.items())
+
 print(marks.keys())
+
 marks.update({"HUSNAIN": 87, "MAZZ":97})
 print(marks)
+
+
 print(marks.get("HUSNAIN"))
+
 print(marks["HUSNAIN"])
 
 
@@ -26,5 +31,5 @@ print(marks["HUSNAIN"])
 
 my_dict = { 55 : "husnain", "shahbaz" : 100}
 
-n =len(my_dict)
-print(n)
+length =len(my_dict)
+print(length)
