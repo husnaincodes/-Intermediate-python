@@ -1,21 +1,21 @@
 dictionary = {}
 
 
-name1 = input("Enter your name1 please:")
+name = input("Enter your name please:")
 lang = input("Enter your language please :")
-dictionary.update({name1 : lang})
+dictionary.update({name : lang})
 
-name1 = input("Enter your name1 please:")
+name = input("Enter your name please:")
 lang = input("Enter your language please :")
-dictionary.update({name1 : lang})
+dictionary.update({name : lang})
 
-name1 = input("Enter your name1 please:")
+name = input("Enter your name please:")
 lang = input("Enter your language please :")
-dictionary.update({name1 : lang})
+dictionary.update({name : lang})
 
-name1 = input("Enter your name1 please:")
+name = input("Enter your name please:")
 lang = input("Enter your language please :")
-dictionary.update({name1 : lang})
+dictionary.update({name : lang})
 
 
 print(dictionary)
