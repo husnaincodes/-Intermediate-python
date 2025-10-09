@@ -26,3 +26,25 @@ dictionary.update({name : lang})
 
 
 print(dictionary)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
