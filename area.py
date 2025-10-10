@@ -1,9 +1,7 @@
 import math
 
 num1 = float(input("Enter the first side number: "))
-
 num2 = float(input("Enter the second side number: "))
-
 num3 = float(input("Enter the thrid side number: "))
 
 sum_sides =(num1+num2+num3)/2
