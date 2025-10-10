@@ -1,8 +1,5 @@
 topic = input("Enter your word or sentence : ")
 
-# topic = input("Enter your word or sentence :")
-
-# topic = input("Enter your word or sentence :")
 
 if("PHYiSCS".lower() in topic.lower()):
    
