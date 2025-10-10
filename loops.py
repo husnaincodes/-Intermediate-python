@@ -1,13 +1,13 @@
 
 number  = 1 
-while(number<=1000):
+while(number<=100):
     print(number)
     number+=1
 
 
 i = 0
 name = input("Enter your name please sir/madam : ")
-while(i<=15):
+while(i<=10):
     print(name)
     # i = i+1
     i = i+2
