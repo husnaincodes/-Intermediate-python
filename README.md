@@ -85,5 +85,5 @@ If you'd like to add more Python exercises or improve existing ones, feel free t
 
 <hr>
 <p align="center">
-  ⭐ Star this repository if you found it helpful!
+   Star this repository if you found it helpful!
 </p>
