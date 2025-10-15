@@ -8,4 +8,4 @@ elif income == 5001 or income <= 10000:
 elif income==1001 or income<= 20000:
     print(" 20% Tax")
 elif income>20000:
-    print("30% Tax")
+    print("40% Tax")
