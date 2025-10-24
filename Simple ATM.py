@@ -1,4 +1,4 @@
-balance = 200000
+balance = 2000000
 pin = "1234"
 atm_pin = input("Enter the ATM pin : ")
 
