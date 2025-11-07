@@ -1,5 +1,5 @@
 
-my_set = {2,3,5,6,7,"husnain",55.6,}
+my_set = {2,3,5,6,7,"husnain",55.6,8}
 
 my_set.add(564)
 
