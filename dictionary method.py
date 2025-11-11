@@ -12,6 +12,7 @@ print(marks,type(marks))
 print(marks.items())
 
 print(marks.keys())
+print(marks.values())
 
 marks.update({"HUSNAIN": 87, "MAZZ":97})
 print(marks)
