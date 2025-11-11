@@ -33,3 +33,4 @@ my_dict = { 55 : "husnain", "shahbaz" : 100}
 
 length =len(my_dict)
 print(length)
+print(my_dict)
