@@ -28,7 +28,18 @@ def get_the_lines():
             print("Enter only digit")
     return lines
 
-
+def get_bet():
+    while True:
+        amount = input("what would you bet? :$")
+        if amount.isdigit():
+            amount = int(amount)
+            if MIN_BET<=amount<=MAX_BET:
+                break
+            else:
+                print(f"Amount must be between ${MIN_BET}-${MAX_BET}")
+        else:
+            print("Enter only digit")
+    return amount
 
 
 
