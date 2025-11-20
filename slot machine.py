@@ -1,5 +1,6 @@
 Max_lines = 3
-
+MAX_BET = 100
+MIN_BET = 1
 def deposit():
     while True:
         amount = input("What would you like deposit? $: ")
@@ -35,4 +36,6 @@ def get_the_lines():
 
 def main():
     balance = deposit
+    lines = get_the_lines
+    print(balance,lines)
 main()
