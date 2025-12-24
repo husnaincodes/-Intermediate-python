@@ -1,6 +1,6 @@
 
 for i in range(100):
-    if i == 34 :
+    if i == 36 :
         break
     print(i)
 
