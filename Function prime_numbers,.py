@@ -1,5 +1,6 @@
 def prime_numbers(n):
     primes = []
+    
     for num in range(2, n):
         is_prime = True
         for i in range(2, num):
