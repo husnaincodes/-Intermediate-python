@@ -6,3 +6,4 @@ def flatten(items):
         else:
             result.append(x)
     return result
+print(flatten([1,23,45,64]))
