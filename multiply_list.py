@@ -1,4 +1,5 @@
 def multiply_list(lst):
+    
     product = 1
     for num in lst:
         product *= num
