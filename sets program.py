@@ -1,4 +1,3 @@
-
 my_set = set()
 
 number = input("Enter your number : ")
