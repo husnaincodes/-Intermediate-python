@@ -49,4 +49,3 @@ def main():
     balance = deposit
     lines = get_the_lines
     print(balance,lines)
-main()
