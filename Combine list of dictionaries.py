@@ -7,4 +7,5 @@ def combine_dicts(lst, index=0, result=None):
     for k in lst[index]:
         result[k] = result.get(k, 0) + 1
     
+    
     return combine_dicts(lst, index + 1, result)
