@@ -2,7 +2,7 @@ def combine_dicts(lst, index=0, result=None):
     if result is None:
         result = {}
 
-    # Print current state before stopping condition
+    
     print(f"Calling index = {index}, result = {result}")
 
     if index == len(lst):
@@ -13,7 +13,7 @@ def combine_dicts(lst, index=0, result=None):
         result[k] = result.get(k, 0) + 1
         print(f"Updated key '{k}': {result}")
 
-    # Print before recursive call
+   
     print(f"Moving to next index: {index + 1}\n")
 
     return combine_dicts(lst, index + 1, result)
