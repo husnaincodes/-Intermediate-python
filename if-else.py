@@ -7,5 +7,4 @@ if(name in list):
 else:
     print("Your name is not in the list ")
 
-
 print("Thank You!")
