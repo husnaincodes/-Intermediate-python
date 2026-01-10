@@ -1,4 +1,3 @@
-
 number = int(input(" ENTER YOUR NUMBER PLEASE : "))
 
 Percentage = number/1100*100
