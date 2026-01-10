@@ -1,4 +1,3 @@
-
 def find_item(data, target):
 
     for key, value in data.items():
