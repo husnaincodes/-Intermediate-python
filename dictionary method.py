@@ -1,4 +1,3 @@
-
 marks ={
     "HUSNAIN": 100,
     "SHAHBAZ": 98,
