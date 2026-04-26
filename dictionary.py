@@ -15,7 +15,7 @@ print(marks["HUSNAIN"])
 print(marks["SHAHBAZ"])
 print(marks["RAFAY"])
 print(marks["list"])
-# print(marks[0]) # it will give error because 0 is not a key in the dictionary     
+    
 print(marks.get("AHMAD"))
 print(marks.get("HUSNAIN"))
 print(marks.get("SHAHBAZ"))
