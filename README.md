@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Intermediate Python Projects</h1>
+<h1 align="center"> Intermediate Python Projects</h1>
 
 <p align="center">
   A collection of Python practice scripts covering <b>loops, conditionals, prime numbers, dictionaries, sets</b> and more.
@@ -8,14 +8,14 @@
 
 <hr>
 
-<h2>📘 About</h2>
+<h2> About</h2>
 
 <p>
 This repository contains intermediate-level Python programs that help strengthen logical thinking and coding practice.
 Each file focuses on a key Python topic like loops, decision-making, data structures, and simple algorithmic logic.
 </p>
 
-<h2>🧩 Topics Covered</h2>
+<h2> Topics Covered</h2>
 
 <ul>
   <li><b>Loops:</b> For and While loops with pattern printing and nested examples</li>
@@ -52,7 +52,7 @@ Intermediate-Python/
 └── README.md
 </pre>
 
-<h2>⚙️ How to Run</h2>
+<h2>How to Run</h2>
 
 <ol>
   <li>Clone the repository:</li>
@@ -65,13 +65,13 @@ Intermediate-Python/
   <pre><code>python filename.py</code></pre>
 </ol>
 
-<h2>🎯 Purpose</h2>
+<h2>Purpose</h2>
 
 <p>
 This repository is designed for learners who have covered Python basics and want to strengthen their programming logic before moving toward <b>advanced topics</b> like OOP, file handling, data analysis, and web development.
 </p>
 
-<h2>🤝 Contributing</h2>
+<h2>Contributing</h2>
 
 <p>
 If you'd like to add more Python exercises or improve existing ones, feel free to fork the repo and submit a pull request.
