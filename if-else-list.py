@@ -1,4 +1,4 @@
-nums = [1 ,3 ,4,5,6,7,9]
+nums = [1 ,3 ,4,5,6,7,9,10,11,12]
 print(type(nums))
 
 unique = set(nums)
